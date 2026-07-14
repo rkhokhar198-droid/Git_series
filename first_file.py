@@ -1,7 +1,9 @@
  # This is new file and first commit
 
+print('i am good' )
+      
+# This is a change to our code.
 
-# This is the code for the first file in the repository. It contains some basic functionality and serves as a starting point for the project.
+print('I love merging and branching')
 
 
-print("Hello, this is the first file in the repository!")
